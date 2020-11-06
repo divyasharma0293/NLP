@@ -1,1 +1,1 @@
-Reading a tsv file which contains Restaurant reviews, geneartes a bag-of-words model and uses a classifier which tells whether the review is a positive one or a negative one.
+Python project on NLP: Reads a tsv file which contains Restaurant reviews, cleans the text, geneartes a bag-of-words model and uses a classifier which tells whether the review is a positive one or a negative one.
